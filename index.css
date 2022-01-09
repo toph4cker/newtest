@@ -1,0 +1,44 @@
+body{
+    font-family: serif;
+    /*display: table-cell;*/
+}
+header h1{
+    font-size: 150%;
+    background-color: #b3b3b3;
+    color: #ffffff;
+    line-height: 200%;
+}
+header{
+    background-color: #666666;
+    text-align: center;
+}
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: 'Times New Roman';
+}
+nav a{
+    display: inline-block;
+    width: 10%;
+    text-decoration: none;
+}
+h2{
+    color: #27A300;
+}
+.sec-1{
+    text-align: justify;
+}
+.sec-2{
+    text-align: center;
+}
+.sec-3 h2{
+    text-align: justify;
+    margin: 0 auto;
+}
+.sec-3 p {
+    font-style: italic;
+}
+details{
+    line-height: 200%;
+    margin: 0 auto;
+}
