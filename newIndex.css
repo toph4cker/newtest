@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: serif;
+    font-size: 15px;
+    background-color: #ffffff;
+}
+header{
+    background-color: #08025fef;
+    text-align: center;
+    border: groove 1px #b3b3b3b3;
+}
+h1{
+    color: #ffffff;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+nav{
+    background-color: rgba(6, 0, 36, 0.133);
+    line-height: 35px;
+    width: 100%;
+}
+nav a{
+    text-decoration: none;
+    display: inline-block;
+    width: 10%;
+    font-size: 20px;
+    color: #ffffff;
+}
+nav a:hover{
+    color: #fdf905;
+    background-color: #5f5d5d;
+}
+h3{
+    color: #02380b;
+    font-size: 20px;
+}
+main{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.first{
+    text-align: justify;
+    position: absolute;
+}
+.second ol{
+    list-style-type: none;
+}
+.second{
+    text-align: right;
+    /*position: relative;*/
+    /*margin-top: 2.5%;*/
+}
+.third{
+    text-align: center;
+}
+aside h3{
+    text-align: center;
+    line-height: 50px;
+    margin-bottom: 4px;
+    margin-top: 3px;
+}
+#low {
+    text-align: justify;
+}
+#low h3{
+    margin-top: 30px;
+}
+article #services {
+    visibility: hidden;
+}
+footer p{
+    text-align: right;
+    margin-top: 30px;
+}
+span{
+    font-variant: small-caps;
+}
+.top{
+    display: inline-block;
+    width: 98%;
+}
